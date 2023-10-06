@@ -1,0 +1,8 @@
+/home/ec2-user/poc/springboot-thymeleaf-crud/src/main/java/net/javaguides/springboot/controller/AwsSecrets.java
+/home/ec2-user/poc/springboot-thymeleaf-crud/src/main/java/net/javaguides/springboot/controller/ApplicationConfig.java
+/home/ec2-user/poc/springboot-thymeleaf-crud/src/main/java/net/javaguides/springboot/SpringbootThymeleafCrudWebAppApplication.java
+/home/ec2-user/poc/springboot-thymeleaf-crud/src/main/java/net/javaguides/springboot/model/Employee.java
+/home/ec2-user/poc/springboot-thymeleaf-crud/src/main/java/net/javaguides/springboot/repository/EmployeeRepository.java
+/home/ec2-user/poc/springboot-thymeleaf-crud/src/main/java/net/javaguides/springboot/service/EmployeeServiceImpl.java
+/home/ec2-user/poc/springboot-thymeleaf-crud/src/main/java/net/javaguides/springboot/service/EmployeeService.java
+/home/ec2-user/poc/springboot-thymeleaf-crud/src/main/java/net/javaguides/springboot/controller/EmployeeController.java
